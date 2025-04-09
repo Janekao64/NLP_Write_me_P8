@@ -9,9 +9,4 @@ Non-structural elements: All the elements that are expected in an email but are 
 
 Dialogues: Extension of the previous tasks to a dialogical environment, such as a chat.
 
-Dataset 
-•	Enron Email Data
-•	Hillary Clinton Emails
-•	Apache Email Archives
-•	NPS CHat Corpus
-•	Fraudulent E-mail Corpus
+Dataset: Enron Email Data, Hillary Clinton Emails, Apache Email Archives, NPS CHat Corpus, Fraudulent E-mail Corpus.
